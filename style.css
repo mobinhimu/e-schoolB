@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,900;1,600&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+.bg-green {
+  background-color: #f0fff0;
+}
+.navbar-brand img {
+  width: 120px;
+}
+.btn-nav {
+  background-color: #21b573;
+  font-weight: 500;
+  border-radius: 30px;
+}
+.slider h1 {
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+.slider h1 span {
+  color: #21b573;
+}
+.btn-me {
+  border: none;
+  padding: 8px 15px;
+  border-radius: 20px;
+  color: white;
+  background-color: #21b573;
+}
+.card-cat img {
+  width: 80px;
+}
+.card-cat {
+  border: none;
+  background-color: #f8fffb;
+  cursor: pointer;
+  transition: box-shadow 1s;
+}
+.card-cat:hover {
+  box-shadow: 0 0 30px -5px #ddd;
+  background-color: white;
+}
+.online-card {
+  border-radius: 15px;
+}
+.date-student img {
+  width: 20px;
+}
+.testimonial img {
+  width: 150px;
+}
+footer {
+  background-color: #282531;
+}
